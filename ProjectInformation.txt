@@ -1,0 +1,12 @@
+Project Name : Hostel Managaement System
+
+Developed By : Mayur Nandre & Chunay Sarode (MJ College,Jalgaon)
+
+Language used in frontend:(BOOTSTRAP)HTML,CSS,JAVASCRIPT,JQuery
+
+Language used in Backenend:PHP,MYSQL
+
+Project has two main modules
+
+1.Admin
+2.Users

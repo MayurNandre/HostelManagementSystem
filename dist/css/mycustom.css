@@ -1,0 +1,47 @@
+/* Mofication by MN */
+/* For Logo design */
+.hostelLogo{
+    width: 70px;
+    border-radius: 25%;
+}
+#uname,#pwd,#std-lgn-btn{
+    border-radius: 8px;
+}
+#loginimg{
+    border-right: 1px solid rgb(224, 224, 224);
+}
+
+.my-style{
+    border: 1px solid rgb(224, 224, 224);
+}
+/* For Logo design  end*/
+
+/* Payment detail table design */
+table {
+    color: black;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 2px solid gray;
+    text-align: left;
+    padding: 10px;
+    width: 50%;
+}
+/* Payment detail table design End*/
+
+
+/* For hiding number input feild  inner incrementer*/
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+/* For hiding number input feild  inner incrementer End*/

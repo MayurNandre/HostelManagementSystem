@@ -1,0 +1,24 @@
+# Ignore sensitive files
+.env
+config.php
+
+# Ignore PHPStorm files
+.idea/
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore node_modules folder (if applicable)
+node_modules/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore upload and cache directories
+/uploads/
+cache/

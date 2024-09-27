@@ -1,0 +1,13 @@
+Project work of final year(BCA at M.J.College)
+
+**Admin Login Details**
+
+Username: admin
+Password: Mayur@Admin
+
+**Demo User Email & Password For Login**
+
+ Username : vishnu@gmail.com
+ Password : vishnu
+ Username : chunay@gmail.com
+ Password : chunay
